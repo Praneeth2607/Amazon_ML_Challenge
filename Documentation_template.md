@@ -1,6 +1,6 @@
 # ML Challenge 2026: Business Entity Resolution Solution Template
 
-**Team Name:** [fill in]
+**Team Name:** Nether Star
 **Team Members:** Jatin D, Nityasri A, Praneeth VP (SRM University)
 **Submission Date:** 27 Sep 2026
 
