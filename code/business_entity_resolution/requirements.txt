@@ -1,0 +1,14 @@
+# Pinned to the package versions available on Kaggle's Python 3.12 CPU notebook image
+# (the environment every script here was actually run on -- "Settings: CPU, Internet On/Off
+# as noted per script"). No external data, APIs, geocoding or registries are used anywhere.
+# If reproducing outside Kaggle, run `pip freeze` after installing and diff against this file.
+rapidfuzz==3.9.7
+sparse_dot_topn==1.1.5
+unidecode==1.3.8
+polars==1.9.0
+lightgbm==4.5.0
+xgboost==2.1.1
+catboost==1.2.7
+jellyfish==1.1.0
+numpy==1.26.4
+pandas==2.2.2
